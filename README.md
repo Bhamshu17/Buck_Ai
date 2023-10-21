@@ -5,6 +5,7 @@ It's obvious I can't acheive that because, GPT-4 is literally made by a freaking
 and Iam a only big piece of fat trying to learn Neural-NetWorking or Machine-Learning IDK something like that.
 
 I 'am pleading to you to contribute because I cant just do it alone.
+I know people Do not Contribute to this random ass open-source project but please.
 
 List of Contributors:-
 (No one For now)
